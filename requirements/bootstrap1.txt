@@ -1,1 +1,0 @@
-https://s3.amazonaws.com/canvas-public-artifacts/zope.interface-3.6.4.tar.gz

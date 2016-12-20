@@ -1,9 +1,0 @@
-war
-log
-updates
-*.log
-*.tmp
-*.old
-*.bak
-*.jar
-*.json
